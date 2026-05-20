@@ -47,9 +47,16 @@ telecom customer data (7,043 records).
 - Forecast & Scenarios
 
 ## Screenshots
-[screenshots will go here]
+<img width="996" height="576" alt="SaaS_Revenue_Analysis_Page4" src="https://github.com/user-attachments/assets/a824ad02-40c6-4cbe-903b-a4547a08c879" />
+<img width="996" height="576" alt="SaaS_Revenue_Analysis_Page3" src="https://github.com/user-attachments/assets/a2a7f3bd-058c-4b5d-aa4d-2682be7405d5" />
+<img width="996" height="576" alt="SaaS_Revenue_Analysis_Page4" src="https://github.com/user-attachments/assets/7e06a8e7-819b-4e0a-84ca-ce0ec9272479" />
+<img width="996" height="576" alt="SaaS_Revenue_Analysis_Page2" src="https://github.com/user-attachments/assets/ba8bfd2f-7ae3-4107-afff-3114c1233ba4" />
+<img width="996" height="576" alt="SaaS_Revenue_Analysis_Page3" src="https://github.com/user-attachments/assets/800870ed-0c55-46f7-af84-f1ae8eb53eb3" />
+<img width="996" height="576" alt="SaaS_Revenue_Analysis_Page2" src="https://github.com/user-attachments/assets/8804d042-cef5-413d-bd2a-3a900d36a1d5" />
+<img width="996" height="576" alt="SaaS_Revenue_Analysis_Page1" src="https://github.com/user-attachments/assets/5661a276-e7e2-4657-bb02-01a12027a8f8" />
+
 
 ## Author
 Muhammad Hammad Rahim
 Financial Analyst
-LinkedIn: [your linkedin URL]
+LinkedIn: www.linkedin.com/in/muhammad-hammad-rahim
