@@ -1,0 +1,13 @@
+"internetservice","paymentmethod","total_customers","avg_mrr","total_mrr","total_arr","churned_customers","churn_rate_pct","churned_arr"
+"Fiber optic","Electronic check",1595,89.68,143046.45,1716557.40,849,53.23,892156.80
+"Fiber optic","Bank transfer (automatic)",646,94.73,61195.55,734346.60,187,28.95,203839.20
+"Fiber optic","Credit card (automatic)",597,95.00,56717.70,680612.40,151,25.29,165344.40
+"DSL","Credit card (automatic)",594,63.01,37425.40,449104.80,72,12.12,47634.00
+"DSL","Bank transfer (automatic)",566,62.55,35403.35,424840.20,53,9.36,32802.60
+"DSL","Electronic check",648,53.55,34702.35,416428.20,207,31.94,115672.80
+"DSL","Mailed check",613,54.05,33134.25,397611.00,127,20.72,74241.00
+"Fiber optic","Mailed check",258,86.53,22324.70,267896.40,110,42.64,110260.20
+"No","Mailed check",741,20.70,15335.35,184024.20,71,9.58,17142.00
+"No","Bank transfer (automatic)",332,21.53,7146.55,85758.60,18,5.42,4461.00
+"No","Credit card (automatic)",331,21.42,7088.75,85065.00,9,2.72,2380.80
+"No","Electronic check",122,21.28,2596.20,31154.40,15,12.30,3635.40

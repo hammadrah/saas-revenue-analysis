@@ -1,0 +1,5 @@
+"tenure_band","total_customers","total_mrr","retained_mrr","churned_mrr","retained_revenue_share_pct"
+"0-12 Months",2186,122629.75,53675.50,68954.25,11.77
+"13-24 Months",1024,62829.85,39748.20,23081.65,8.71
+"25-48 Months",1594,105093.30,77630.80,27462.50,17.02
+"49-72 Months",2239,165563.70,145931.25,19632.45,31.99

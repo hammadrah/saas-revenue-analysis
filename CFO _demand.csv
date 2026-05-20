@@ -1,0 +1,4 @@
+"risk_analysis","total_customers","average_healthscore","total_ar","churn_ar","churn_pct"
+"High Risk",1312,36.36,583708.20,228650.40,34.22
+"Moderate Risk",3283,59.25,2603393.40,1162238.40,35.79
+"Low Risk",2448,88.53,2286297.60,278681.40,10.01

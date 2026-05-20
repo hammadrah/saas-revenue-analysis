@@ -1,0 +1,29 @@
+Finance Linkedin project Cheatsheets 
+Monte Carlo 
+formulasA14 → 1
+
+B14 → =NORM.INV(RAND(), B4, B5)
+       Random growth rate
+       based on mean and std dev
+
+C14 → =NORM.INV(RAND(), B6, B7)
+       Random churn rate
+
+D14 → =B$3*(1+B14)^24*(1-C14/12)^24
+       Year 2 MRR formula
+       using random inputs
+
+E14 → =D14*12
+       Year 2 ARR
+
+What NORM.INV does:
+
+NORM.INV(RAND(), mean, std_dev)
+
+RAND()    → generates random number 0-1
+mean      → your expected value (3%)
+std_dev   → how much it can vary (1%)
+
+Result: random growth rate that's usually
+near 3% but sometimes 2% or 4%
+Realistic randomness!
